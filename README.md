@@ -1,4 +1,5 @@
 # Basic REST API with CRUD Operations
+# Internship - Prodigy InfoTech
 
 This project was developed as part of my Backend Web Development Internship at Prodigy InfoTech.
 
